@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c75981f3988054faba65c3e534a8bf, type: 3}
+  m_Name: Deglawi 11
+  m_EditorClassIdentifier: 
+  card:
+    id:
+      defaultValue:
+        value: 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    _name:
+      defaultValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    description:
+      defaultValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: Deglawi 11
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    cost:
+      defaultValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    art:
+      defaultValue:
+        value: {fileID: 21300000, guid: 99049f7e64324b5499b9cebb130ea007, type: 3}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: {fileID: 21300000, guid: 99049f7e64324b5499b9cebb130ea007, type: 3}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: {fileID: 21300000, guid: 99049f7e64324b5499b9cebb130ea007, type: 3}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    rarity:
+      defaultValue:
+        value: 0
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 0
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 0
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    manaCost:
+      defaultValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+  minion:
+    attackDamage:
+      defaultValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 3
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    health:
+      defaultValue:
+        value: 10
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 10
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 10
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    armor:
+      defaultValue:
+        value: 5
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 5
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 5
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    attackSpeed:
+      defaultValue:
+        value: 1
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: 1
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: 1
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    range:
+      defaultValue:
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    abilities:
+      defaultValue:
+        value: []
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: []
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: []
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+    attackStrategy:
+      defaultValue:
+        value: {fileID: 11400000, guid: d9b3113867af07d48aec81f58720df3d, type: 2}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      maxValue:
+        value: {fileID: 11400000, guid: d9b3113867af07d48aec81f58720df3d, type: 2}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
+      currentValue:
+        value: {fileID: 11400000, guid: d9b3113867af07d48aec81f58720df3d, type: 2}
+        listener:
+          m_PersistentCalls:
+            m_Calls: []
